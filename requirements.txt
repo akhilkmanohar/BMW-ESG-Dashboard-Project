@@ -1,0 +1,6 @@
+camelot-py[cv]
+pdfplumber
+pandas
+numpy
+pyyaml
+python-dotenv
