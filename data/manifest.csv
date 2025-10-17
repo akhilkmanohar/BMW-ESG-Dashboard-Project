@@ -1,0 +1,10 @@
+﻿year,pdf_path,pages,table_name,pillar,category,notes
+2024,BMW-Group-Report-2024-en.pdf,195-197,ghg_totals_splits,Environment,Emissions,"Scope 1/2/3 totals + splits; market vs location"
+2024,BMW-Group-Report-2024-en.pdf,124,emissions_intensity,Environment,Emissions,"t CO2e per € revenue + per vehicle"
+2024,BMW-Group-Report-2024-en.pdf,57;79;126,electrification,Environment,Transition,"BEV/PHEV shares; charging network"
+2024,BMW-Group-Report-2024-en.pdf,129-130,energy_mix,Environment,Energy,"Total energy; fossil vs renewable; PPAs/EACs"
+2024,BMW-Group-Report-2024-en.pdf,135-136,water,Environment,Water,"Total, at-risk, recycled/reused"
+2024,BMW-Group-Report-2024-en.pdf,143-146,waste_circularity,Environment,Circularity,"Waste totals; recovery; recycling indicators"
+2024,BMW-Group-Report-2024-en.pdf,152;156-158,eu_taxonomy,Governance,Finance,"Aligned revenue/CapEx/OpEx (% and absolute)"
+2024,BMW-Group-Report-2024-en.pdf,165-174,people_safety_social,Social,People,"Headcount, training, accidents, diversity"
+2024,BMW-Group-Report-2024-en.pdf,178-180,supply_chain_dd,Governance,SupplyChain,"Assessments, audits, remediation, grievances"
